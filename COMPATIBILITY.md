@@ -71,7 +71,7 @@ Entries list the class name serving as the entry point to the relevant functiona
 - [X] `GCloudBuildWrapper` (`gcloud-sdk`): scheduled to be supported as of 0.0.2
 - [X] `NpmPackagesBuildWrapper` (`nodejs`): scheduled to be supported as of 0.3
 - [X] `AnsiColorBuildWrapper` (`ansicolor`): supported as of 0.4.2
-- [ ] `CustomToolInstallWrapper` (`custom-tools-plugin`): [JENKINS-30680](https://issues.jenkins-ci.org/browse/JENKINS-30680) 
+- [ ] `CustomToolInstallWrapper` (`custom-tools-plugin`): [JENKINS-30680](https://issues.jenkins-ci.org/browse/JENKINS-30680)
 - [ ] `PortAllocator` (`port-allocator`): [JENKINS-31449](https://issues.jenkins-ci.org/browse/JENKINS-31449)
 
 ## Triggers
@@ -119,6 +119,7 @@ Entries list the class name serving as the entry point to the relevant functiona
 - [X] `buildtriggerbadge`: supported as of 2.2
 - [X] `radiatorview`: supported as of 1.25
 - [ ] `chucknorris`: [JENKINS-32594](https://issues.jenkins-ci.org/browse/JENKINS-32594)
+- [ ] `Zephyr` : [JENKINS-32801](https://issues.jenkins-ci.org/browse/JENKINS-32801)
 
 ## Custom steps
 
